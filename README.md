@@ -1,1 +1,1 @@
-# todo-list-app
+# OpenClassrooms - Project 8
